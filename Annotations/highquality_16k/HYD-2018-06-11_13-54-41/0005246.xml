@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005246.jpg</filename>
+	<folder>HYD-2018-06-11_13-54-41_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1782</xmin>
+			<ymax>1080</ymax>
+			<xmax>1919</xmax>
+			<ymin>1023</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0015225.jpg</filename>
+	<folder>BLR-2018-05-31_13-01-28_frontNear_left_18</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymax>767</ymax>
+			<xmax>839</xmax>
+			<ymin>295</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1082</xmin>
+			<ymax>651</ymax>
+			<xmax>1199</xmax>
+			<ymin>548</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymax>502</ymax>
+			<xmax>1258</xmax>
+			<ymin>449</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymax>523</ymax>
+			<xmax>1412</xmax>
+			<ymin>498</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1860</xmin>
+			<ymax>505</ymax>
+			<xmax>1885</xmax>
+			<ymin>453</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1745</xmin>
+			<ymax>731</ymax>
+			<xmax>1883</xmax>
+			<ymin>593</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1325</xmin>
+			<ymax>785</ymax>
+			<xmax>1752</xmax>
+			<ymin>491</ymin>
+		</bndbox>
+	</object>
+</annotation>

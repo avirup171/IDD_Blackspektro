@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0010185.jpg</filename>
+	<folder>BLR-2018-05-22_12-04-54_frontNear_left_12</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymax>684</ymax>
+			<xmax>1015</xmax>
+			<ymin>358</ymin>
+		</bndbox>
+	</object>
+</annotation>

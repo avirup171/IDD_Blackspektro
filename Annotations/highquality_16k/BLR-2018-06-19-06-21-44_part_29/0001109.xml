@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001109.jpg</filename>
+	<folder>BLR-2018-06-19-06-21-44_part_29_1</folder>
+	<size>
+		<width>1921</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1759</xmin>
+			<ymax>929</ymax>
+			<xmax>1919</xmax>
+			<ymin>618</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1653</xmin>
+			<ymax>673</ymax>
+			<xmax>1684</xmax>
+			<ymin>607</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1689</xmin>
+			<ymax>708</ymax>
+			<xmax>1720</xmax>
+			<ymin>620</ymin>
+		</bndbox>
+	</object>
+</annotation>

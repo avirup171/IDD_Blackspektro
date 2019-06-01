@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000758.jpg</filename>
+	<folder>BLR-2018-06-20-07-01-47_part_4_1</folder>
+	<size>
+		<width>1921</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymax>612</ymax>
+			<xmax>1058</xmax>
+			<ymin>532</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1058</xmin>
+			<ymax>578</ymax>
+			<xmax>1066</xmax>
+			<ymin>564</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymax>582</ymax>
+			<xmax>1066</xmax>
+			<ymin>570</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymax>672</ymax>
+			<xmax>1011</xmax>
+			<ymin>479</ymin>
+		</bndbox>
+	</object>
+</annotation>

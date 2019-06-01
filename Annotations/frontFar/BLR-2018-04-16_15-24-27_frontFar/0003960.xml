@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003960.jpg</filename>
+	<folder>BLR-2018-04-16_15-24-27_frontFar_left_1</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymax>510</ymax>
+			<xmax>667</xmax>
+			<ymin>478</ymin>
+		</bndbox>
+	</object>
+</annotation>

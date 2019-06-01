@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007958.jpg</filename>
+	<folder>HYD-2018-08-24_13-12-50_11</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymax>631</ymax>
+			<xmax>293</xmax>
+			<ymin>491</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymax>605</ymax>
+			<xmax>630</xmax>
+			<ymin>510</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1738</xmin>
+			<ymax>620</ymax>
+			<xmax>1920</xmax>
+			<ymin>522</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymax>543</ymax>
+			<xmax>919</xmax>
+			<ymin>482</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000660.jpg</filename>
+	<folder>BLR-2018-04-16_16-14-27_frontNear_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>911</xmin>
+			<ymax>647</ymax>
+			<xmax>957</xmax>
+			<ymin>619</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1161</xmin>
+			<ymax>651</ymax>
+			<xmax>1183</xmax>
+			<ymin>601</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymax>594</ymax>
+			<xmax>918</xmax>
+			<ymin>576</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0015900.jpg</filename>
+	<folder>BLR-2018-04-16_15-24-27_frontFar_left_15</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymax>448</ymax>
+			<xmax>428</xmax>
+			<ymin>363</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymax>508</ymax>
+			<xmax>692</xmax>
+			<ymin>438</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymax>572</ymax>
+			<xmax>684</xmax>
+			<ymin>466</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymax>581</ymax>
+			<xmax>386</xmax>
+			<ymin>519</ymin>
+		</bndbox>
+	</object>
+</annotation>

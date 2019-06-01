@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000825.jpg</filename>
+	<folder>BLR-2018-06-22-05-05-26_part_29_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymax>932</ymax>
+			<xmax>1392</xmax>
+			<ymin>522</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1739</xmin>
+			<ymax>749</ymax>
+			<xmax>1918</xmax>
+			<ymin>591</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>864</ymax>
+			<xmax>117</xmax>
+			<ymin>440</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>989</ymax>
+			<xmax>109</xmax>
+			<ymin>709</ymin>
+		</bndbox>
+	</object>
+</annotation>

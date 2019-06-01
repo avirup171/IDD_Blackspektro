@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0012000.jpg</filename>
+	<folder>BLR-2018-04-19_18-06-55_frontFar_right_14</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymax>595</ymax>
+			<xmax>313</xmax>
+			<ymin>483</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymax>502</ymax>
+			<xmax>318</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymax>592</ymax>
+			<xmax>1157</xmax>
+			<ymin>448</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1151</xmin>
+			<ymax>568</ymax>
+			<xmax>1255</xmax>
+			<ymin>430</ymin>
+		</bndbox>
+	</object>
+</annotation>

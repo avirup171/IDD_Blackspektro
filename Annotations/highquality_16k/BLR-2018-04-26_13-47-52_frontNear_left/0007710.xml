@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007710.jpg</filename>
+	<folder>BLR-2018-04-26_13-47-52_frontNear_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymax>811</ymax>
+			<xmax>1000</xmax>
+			<ymin>175</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymax>584</ymax>
+			<xmax>1157</xmax>
+			<ymin>369</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1298</xmin>
+			<ymax>513</ymax>
+			<xmax>1468</xmax>
+			<ymin>422</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymax>511</ymax>
+			<xmax>139</xmax>
+			<ymin>461</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001140.jpg</filename>
+	<folder>BLR-2018-04-19_17-26-55_frontFar_left_12</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymax>796</ymax>
+			<xmax>98</xmax>
+			<ymin>707</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymax>619</ymax>
+			<xmax>824</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+</annotation>

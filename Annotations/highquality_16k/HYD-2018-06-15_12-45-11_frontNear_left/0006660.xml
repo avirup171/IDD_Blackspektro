@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006660.jpg</filename>
+	<folder>HYD-2018-06-15_12-45-11_frontNear_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymax>671</ymax>
+			<xmax>668</xmax>
+			<ymin>585</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymax>661</ymax>
+			<xmax>794</xmax>
+			<ymin>576</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymax>758</ymax>
+			<xmax>1133</xmax>
+			<ymin>258</ymin>
+		</bndbox>
+	</object>
+</annotation>

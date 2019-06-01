@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002355.jpg</filename>
+	<folder>HYD-2018-08-24_13-02-50_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymax>661</ymax>
+			<xmax>508</xmax>
+			<ymin>635</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymax>646</ymax>
+			<xmax>586</xmax>
+			<ymin>617</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1163</xmin>
+			<ymax>750</ymax>
+			<xmax>1629</xmax>
+			<ymin>391</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000224.jpg</filename>
+	<folder>BLR-2018-06-20-07-01-47_part_22_1</folder>
+	<size>
+		<width>1921</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymax>857</ymax>
+			<xmax>1081</xmax>
+			<ymin>92</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymax>607</ymax>
+			<xmax>518</xmax>
+			<ymin>566</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymax>607</ymax>
+			<xmax>583</xmax>
+			<ymin>531</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymax>753</ymax>
+			<xmax>270</xmax>
+			<ymin>595</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymax>1073</ymax>
+			<xmax>186</xmax>
+			<ymin>548</ymin>
+		</bndbox>
+	</object>
+</annotation>

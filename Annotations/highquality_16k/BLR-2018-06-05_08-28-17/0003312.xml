@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003312.jpg</filename>
+	<folder>BLR-2018-06-05_08-28-17_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymax>808</ymax>
+			<xmax>466</xmax>
+			<ymin>584</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymax>751</ymax>
+			<xmax>78</xmax>
+			<ymin>621</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymax>702</ymax>
+			<xmax>121</xmax>
+			<ymin>625</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymax>665</ymax>
+			<xmax>1336</xmax>
+			<ymin>460</ymin>
+		</bndbox>
+	</object>
+</annotation>

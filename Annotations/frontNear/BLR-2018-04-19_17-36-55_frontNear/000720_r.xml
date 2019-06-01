@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007200.jpg</filename>
+	<folder>BLR-2018-04-19_17-36-55_frontNear_right_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1014</xmin>
+			<ymax>668</ymax>
+			<xmax>1022</xmax>
+			<ymin>658</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1022</xmin>
+			<ymax>664</ymax>
+			<xmax>1032</xmax>
+			<ymin>654</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymax>677</ymax>
+			<xmax>1012</xmax>
+			<ymin>664</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1002</xmin>
+			<ymax>673</ymax>
+			<xmax>1011</xmax>
+			<ymin>657</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymax>680</ymax>
+			<xmax>1046</xmax>
+			<ymin>661</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1043</xmin>
+			<ymax>670</ymax>
+			<xmax>1049</xmax>
+			<ymin>658</ymin>
+		</bndbox>
+	</object>
+</annotation>

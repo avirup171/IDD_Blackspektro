@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003449.jpg</filename>
+	<folder>BLR-2018-04-19_17-06-55_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>923</xmin>
+			<ymax>566</ymax>
+			<xmax>946</xmax>
+			<ymin>545</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymax>573</ymax>
+			<xmax>947</xmax>
+			<ymin>566</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymax>602</ymax>
+			<xmax>957</xmax>
+			<ymin>588</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1011</xmin>
+			<ymax>597</ymax>
+			<xmax>1019</xmax>
+			<ymin>585</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymax>593</ymax>
+			<xmax>1018</xmax>
+			<ymin>579</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1049</xmin>
+			<ymax>623</ymax>
+			<xmax>1075</xmax>
+			<ymin>584</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymax>616</ymax>
+			<xmax>1076</xmax>
+			<ymin>570</ymin>
+		</bndbox>
+	</object>
+</annotation>

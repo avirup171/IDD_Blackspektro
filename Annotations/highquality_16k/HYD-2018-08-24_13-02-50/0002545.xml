@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002545.jpg</filename>
+	<folder>HYD-2018-08-24_13-02-50_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1100</xmin>
+			<ymax>614</ymax>
+			<xmax>1169</xmax>
+			<ymin>529</ymin>
+		</bndbox>
+	</object>
+</annotation>

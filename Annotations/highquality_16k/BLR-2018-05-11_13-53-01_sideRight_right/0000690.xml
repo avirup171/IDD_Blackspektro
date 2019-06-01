@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000690.jpg</filename>
+	<folder>BLR-2018-05-11_13-53-01_sideRight_right_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymax>551</ymax>
+			<xmax>888</xmax>
+			<ymin>263</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymax>362</ymax>
+			<xmax>177</xmax>
+			<ymin>309</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>568</ymax>
+			<xmax>290</xmax>
+			<ymin>408</ymin>
+		</bndbox>
+	</object>
+</annotation>

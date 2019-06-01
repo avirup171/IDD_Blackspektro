@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0016020.jpg</filename>
+	<folder>BLR-2018-04-19_17-16-55_frontFar_right_3</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymax>373</ymax>
+			<xmax>403</xmax>
+			<ymin>330</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymax>381</ymax>
+			<xmax>408</xmax>
+			<ymin>341</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymax>379</ymax>
+			<xmax>319</xmax>
+			<ymin>345</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymax>387</ymax>
+			<xmax>185</xmax>
+			<ymin>358</ymin>
+		</bndbox>
+	</object>
+</annotation>

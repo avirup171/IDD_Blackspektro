@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006780.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontNear_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymax>625</ymax>
+			<xmax>895</xmax>
+			<ymin>593</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymax>627</ymax>
+			<xmax>803</xmax>
+			<ymin>592</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymax>666</ymax>
+			<xmax>724</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymax>724</ymax>
+			<xmax>843</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+</annotation>

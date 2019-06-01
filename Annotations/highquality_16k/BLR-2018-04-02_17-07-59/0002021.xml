@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002021.jpg</filename>
+	<folder>BLR-2018-04-02_17-07-59_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>991</xmin>
+			<ymax>591</ymax>
+			<xmax>1002</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>993</xmin>
+			<ymax>588</ymax>
+			<xmax>1000</xmax>
+			<ymin>577</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004840.jpg</filename>
+	<folder>HYD-2018-08-24_13-02-50_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymax>428</ymax>
+			<xmax>311</xmax>
+			<ymin>357</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymax>526</ymax>
+			<xmax>764</xmax>
+			<ymin>485</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymax>555</ymax>
+			<xmax>879</xmax>
+			<ymin>528</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>637</xmin>
+			<ymax>546</ymax>
+			<xmax>648</xmax>
+			<ymin>528</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymax>598</ymax>
+			<xmax>749</xmax>
+			<ymin>533</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymax>586</ymax>
+			<xmax>874</xmax>
+			<ymin>574</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymax>586</ymax>
+			<xmax>862</xmax>
+			<ymin>574</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1022</xmin>
+			<ymax>609</ymax>
+			<xmax>1036</xmax>
+			<ymin>595</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1228</xmin>
+			<ymax>584</ymax>
+			<xmax>1290</xmax>
+			<ymin>558</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymax>609</ymax>
+			<xmax>976</xmax>
+			<ymin>600</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1004</xmin>
+			<ymax>608</ymax>
+			<xmax>1016</xmax>
+			<ymin>598</ymin>
+		</bndbox>
+	</object>
+</annotation>

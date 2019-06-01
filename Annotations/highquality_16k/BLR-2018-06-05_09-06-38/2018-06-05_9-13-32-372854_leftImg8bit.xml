@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>2018-06-05_9-13-32-372854_leftImg8bit.jpg</filename>
+	<folder>BLR-2018-06-05_09-06-38_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymax>725</ymax>
+			<xmax>670</xmax>
+			<ymin>526</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymax>879</ymax>
+			<xmax>1306</xmax>
+			<ymin>220</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>957</ymax>
+			<xmax>364</xmax>
+			<ymin>544</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1493</xmin>
+			<ymax>647</ymax>
+			<xmax>1533</xmax>
+			<ymin>610</ymin>
+		</bndbox>
+	</object>
+</annotation>

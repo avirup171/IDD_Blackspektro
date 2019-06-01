@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001949.jpg</filename>
+	<folder>BLR-2018-04-19_17-06-55_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymax>583</ymax>
+			<xmax>726</xmax>
+			<ymin>576</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymax>599</ymax>
+			<xmax>971</xmax>
+			<ymin>592</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymax>584</ymax>
+			<xmax>771</xmax>
+			<ymin>578</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0008475.jpg</filename>
+	<folder>HYD-2018-08-05_12-52-17_14</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymax>630</ymax>
+			<xmax>358</xmax>
+			<ymin>576</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymax>675</ymax>
+			<xmax>613</xmax>
+			<ymin>546</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1245</xmin>
+			<ymax>822</ymax>
+			<xmax>1540</xmax>
+			<ymin>637</ymin>
+		</bndbox>
+	</object>
+</annotation>

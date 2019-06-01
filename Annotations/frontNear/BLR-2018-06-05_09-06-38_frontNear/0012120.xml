@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0012120.jpg</filename>
+	<folder>BLR-2018-06-05_09-06-38_frontNear_left_14</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>724</xmin>
+			<ymax>589</ymax>
+			<xmax>744</xmax>
+			<ymin>572</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymax>602</ymax>
+			<xmax>837</xmax>
+			<ymin>531</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>985</xmin>
+			<ymax>734</ymax>
+			<xmax>1173</xmax>
+			<ymin>558</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymax>1078</ymax>
+			<xmax>309</xmax>
+			<ymin>546</ymin>
+		</bndbox>
+	</object>
+</annotation>

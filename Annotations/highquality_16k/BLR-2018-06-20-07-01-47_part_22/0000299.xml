@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000299.jpg</filename>
+	<folder>BLR-2018-06-20-07-01-47_part_22_1</folder>
+	<size>
+		<width>1921</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymax>607</ymax>
+			<xmax>181</xmax>
+			<ymin>553</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymax>687</ymax>
+			<xmax>352</xmax>
+			<ymin>511</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymax>672</ymax>
+			<xmax>226</xmax>
+			<ymin>588</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymax>674</ymax>
+			<xmax>711</xmax>
+			<ymin>568</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymax>621</ymax>
+			<xmax>805</xmax>
+			<ymin>554</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymax>835</ymax>
+			<xmax>1135</xmax>
+			<ymin>159</ymin>
+		</bndbox>
+	</object>
+</annotation>

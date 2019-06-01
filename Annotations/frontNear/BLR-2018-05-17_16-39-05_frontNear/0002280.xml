@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002280.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_frontNear_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymax>231</ymax>
+			<xmax>356</xmax>
+			<ymin>222</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1702</xmin>
+			<ymax>525</ymax>
+			<xmax>1760</xmax>
+			<ymin>455</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymax>535</ymax>
+			<xmax>1718</xmax>
+			<ymin>412</ymin>
+		</bndbox>
+	</object>
+</annotation>

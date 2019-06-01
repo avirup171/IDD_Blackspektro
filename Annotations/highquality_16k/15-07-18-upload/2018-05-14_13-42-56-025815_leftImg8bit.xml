@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>2018-05-14_13-42-56-025815_leftImg8bit.jpg</filename>
+	<folder>15-07-18-upload_13</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>931</xmin>
+			<ymax>490</ymax>
+			<xmax>970</xmax>
+			<ymin>457</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymax>1079</ymax>
+			<xmax>1651</xmax>
+			<ymin>393</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1683</xmin>
+			<ymax>876</ymax>
+			<xmax>1920</xmax>
+			<ymin>610</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymax>914</ymax>
+			<xmax>946</xmax>
+			<ymin>165</ymin>
+		</bndbox>
+	</object>
+</annotation>

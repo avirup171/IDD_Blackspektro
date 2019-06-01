@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002760.jpg</filename>
+	<folder>BLR-2018-05-03_14-05-29_sideRight_left_10</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymax>611</ymax>
+			<xmax>525</xmax>
+			<ymin>449</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymax>683</ymax>
+			<xmax>34</xmax>
+			<ymin>658</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001635.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_51_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymax>667</ymax>
+			<xmax>1080</xmax>
+			<ymin>618</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1587</xmin>
+			<ymax>682</ymax>
+			<xmax>1610</xmax>
+			<ymin>634</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1628</xmin>
+			<ymax>665</ymax>
+			<xmax>1653</xmax>
+			<ymin>625</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1655</xmin>
+			<ymax>670</ymax>
+			<xmax>1677</xmax>
+			<ymin>623</ymin>
+		</bndbox>
+	</object>
+</annotation>

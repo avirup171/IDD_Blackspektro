@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006066.jpg</filename>
+	<folder>HYD-2018-08-24_13-22-50_9</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymax>554</ymax>
+			<xmax>263</xmax>
+			<ymin>536</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymax>549</ymax>
+			<xmax>339</xmax>
+			<ymin>511</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymax>588</ymax>
+			<xmax>894</xmax>
+			<ymin>570</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>814</xmin>
+			<ymax>614</ymax>
+			<xmax>831</xmax>
+			<ymin>586</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymax>607</ymax>
+			<xmax>831</xmax>
+			<ymin>576</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1336</xmin>
+			<ymax>641</ymax>
+			<xmax>1554</xmax>
+			<ymin>490</ymin>
+		</bndbox>
+	</object>
+</annotation>

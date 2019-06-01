@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006360.jpg</filename>
+	<folder>BLR-2018-04-19_17-26-55_frontNear_right_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymax>666</ymax>
+			<xmax>878</xmax>
+			<ymin>646</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1029</xmin>
+			<ymax>710</ymax>
+			<xmax>1070</xmax>
+			<ymin>648</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1027</xmin>
+			<ymax>698</ymax>
+			<xmax>1069</xmax>
+			<ymin>618</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1242</xmin>
+			<ymax>757</ymax>
+			<xmax>1266</xmax>
+			<ymin>725</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1347</xmin>
+			<ymax>756</ymax>
+			<xmax>1358</xmax>
+			<ymin>737</ymin>
+		</bndbox>
+	</object>
+</annotation>

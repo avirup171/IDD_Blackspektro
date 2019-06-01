@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>2018-01-11_10-30-43-707875_leftImg8bit.jpg</filename>
+	<folder>15-07-18-upload_9</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1032</xmin>
+			<ymax>629</ymax>
+			<xmax>1055</xmax>
+			<ymin>607</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1079</xmin>
+			<ymax>737</ymax>
+			<xmax>1266</xmax>
+			<ymin>585</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymax>616</ymax>
+			<xmax>1267</xmax>
+			<ymin>579</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1243</xmin>
+			<ymax>647</ymax>
+			<xmax>1303</xmax>
+			<ymin>603</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymax>666</ymax>
+			<xmax>1314</xmax>
+			<ymin>657</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1359</xmin>
+			<ymax>663</ymax>
+			<xmax>1368</xmax>
+			<ymin>655</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1641</xmin>
+			<ymax>719</ymax>
+			<xmax>1653</xmax>
+			<ymin>705</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1875</xmin>
+			<ymax>729</ymax>
+			<xmax>1920</xmax>
+			<ymin>592</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymax>754</ymax>
+			<xmax>564</xmax>
+			<ymin>728</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymax>649</ymax>
+			<xmax>845</xmax>
+			<ymin>633</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>902</xmin>
+			<ymax>625</ymax>
+			<xmax>909</xmax>
+			<ymin>619</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1663</xmin>
+			<ymax>629</ymax>
+			<xmax>1672</xmax>
+			<ymin>619</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymax>620</ymax>
+			<xmax>935</xmax>
+			<ymin>613</ymin>
+		</bndbox>
+	</object>
+</annotation>

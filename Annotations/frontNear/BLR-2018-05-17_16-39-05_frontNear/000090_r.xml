@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000900.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_frontNear_right_6</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1158</xmin>
+			<ymax>588</ymax>
+			<xmax>1186</xmax>
+			<ymin>559</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymax>705</ymax>
+			<xmax>559</xmax>
+			<ymin>657</ymin>
+		</bndbox>
+	</object>
+</annotation>

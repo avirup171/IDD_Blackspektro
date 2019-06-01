@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004946.jpg</filename>
+	<folder>HYD-2018-06-11_13-54-41_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>871</xmin>
+			<ymax>754</ymax>
+			<xmax>927</xmax>
+			<ymin>600</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymax>771</ymax>
+			<xmax>843</xmax>
+			<ymin>637</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymax>782</ymax>
+			<xmax>349</xmax>
+			<ymin>623</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymax>863</ymax>
+			<xmax>359</xmax>
+			<ymin>646</ymin>
+		</bndbox>
+	</object>
+</annotation>

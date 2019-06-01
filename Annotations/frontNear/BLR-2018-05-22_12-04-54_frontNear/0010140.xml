@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0010140.jpg</filename>
+	<folder>BLR-2018-05-22_12-04-54_frontNear_left_12</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymax>694</ymax>
+			<xmax>1181</xmax>
+			<ymin>218</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1525</xmin>
+			<ymax>972</ymax>
+			<xmax>1920</xmax>
+			<ymin>458</ymin>
+		</bndbox>
+	</object>
+</annotation>

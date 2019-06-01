@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002810.jpg</filename>
+	<folder>BLR-2018-05-11_13-53-01_sideRight_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1518</xmin>
+			<ymax>253</ymax>
+			<xmax>1557</xmax>
+			<ymin>119</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1509</xmin>
+			<ymax>452</ymax>
+			<xmax>1537</xmax>
+			<ymin>408</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1534</xmin>
+			<ymax>397</ymax>
+			<xmax>1575</xmax>
+			<ymin>354</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1907</xmin>
+			<ymax>556</ymax>
+			<xmax>1920</xmax>
+			<ymin>505</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1795</xmin>
+			<ymax>582</ymax>
+			<xmax>1910</xmax>
+			<ymin>479</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1750</xmin>
+			<ymax>510</ymax>
+			<xmax>1777</xmax>
+			<ymin>476</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1746</xmin>
+			<ymax>598</ymax>
+			<xmax>1805</xmax>
+			<ymin>508</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1746</xmin>
+			<ymax>599</ymax>
+			<xmax>1810</xmax>
+			<ymin>484</ymin>
+		</bndbox>
+	</object>
+</annotation>

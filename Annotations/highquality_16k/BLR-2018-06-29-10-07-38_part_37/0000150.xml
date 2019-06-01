@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000150.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_37_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1390</xmin>
+			<ymax>853</ymax>
+			<xmax>1639</xmax>
+			<ymin>621</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1789</xmin>
+			<ymax>839</ymax>
+			<xmax>1918</xmax>
+			<ymin>522</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymax>780</ymax>
+			<xmax>1148</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymax>863</ymax>
+			<xmax>838</xmax>
+			<ymin>388</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymax>583</ymax>
+			<xmax>1274</xmax>
+			<ymin>549</ymin>
+		</bndbox>
+	</object>
+</annotation>

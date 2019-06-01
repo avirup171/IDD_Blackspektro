@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000616.jpg</filename>
+	<folder>HYD-2018-04-19_18-16-55_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>891</xmin>
+			<ymax>615</ymax>
+			<xmax>905</xmax>
+			<ymin>602</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymax>615</ymax>
+			<xmax>890</xmax>
+			<ymin>597</ymin>
+		</bndbox>
+	</object>
+</annotation>

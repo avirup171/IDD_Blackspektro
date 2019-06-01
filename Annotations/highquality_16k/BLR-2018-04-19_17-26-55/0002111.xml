@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002111.jpg</filename>
+	<folder>BLR-2018-04-19_17-26-55_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymax>619</ymax>
+			<xmax>191</xmax>
+			<ymin>599</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1307</xmin>
+			<ymax>642</ymax>
+			<xmax>1366</xmax>
+			<ymin>589</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1328</xmin>
+			<ymax>591</ymax>
+			<xmax>1334</xmax>
+			<ymin>582</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1408</xmin>
+			<ymax>640</ymax>
+			<xmax>1428</xmax>
+			<ymin>596</ymin>
+		</bndbox>
+	</object>
+</annotation>

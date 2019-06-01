@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001440.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontNear_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymax>614</ymax>
+			<xmax>1019</xmax>
+			<ymin>579</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1122</xmin>
+			<ymax>620</ymax>
+			<xmax>1149</xmax>
+			<ymin>595</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1121</xmin>
+			<ymax>624</ymax>
+			<xmax>1158</xmax>
+			<ymin>598</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002055.jpg</filename>
+	<folder>BLR-2018-04-02_16-27-59_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymax>627</ymax>
+			<xmax>658</xmax>
+			<ymin>604</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymax>682</ymax>
+			<xmax>599</xmax>
+			<ymin>650</ymin>
+		</bndbox>
+	</object>
+</annotation>

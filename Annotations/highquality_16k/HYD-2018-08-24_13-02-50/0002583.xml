@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002583.jpg</filename>
+	<folder>HYD-2018-08-24_13-02-50_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1330</xmin>
+			<ymax>577</ymax>
+			<xmax>1342</xmax>
+			<ymin>565</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1310</xmin>
+			<ymax>579</ymax>
+			<xmax>1335</xmax>
+			<ymin>565</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1285</xmin>
+			<ymax>576</ymax>
+			<xmax>1311</xmax>
+			<ymin>555</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1092</xmin>
+			<ymax>605</ymax>
+			<xmax>1152</xmax>
+			<ymin>530</ymin>
+		</bndbox>
+	</object>
+</annotation>

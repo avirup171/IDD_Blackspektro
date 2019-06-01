@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002540.jpg</filename>
+	<folder>BLR-2018-05-11_13-53-01_sideRight_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>268</ymax>
+			<xmax>71</xmax>
+			<ymin>212</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymax>522</ymax>
+			<xmax>410</xmax>
+			<ymin>443</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymax>251</ymax>
+			<xmax>466</xmax>
+			<ymin>119</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymax>341</ymax>
+			<xmax>429</xmax>
+			<ymin>287</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymax>457</ymax>
+			<xmax>908</xmax>
+			<ymin>428</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>642</ymax>
+			<xmax>158</xmax>
+			<ymin>419</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymax>477</ymax>
+			<xmax>253</xmax>
+			<ymin>425</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>1080</ymax>
+			<xmax>944</xmax>
+			<ymin>432</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymax>395</ymax>
+			<xmax>461</xmax>
+			<ymin>269</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymax>360</ymax>
+			<xmax>577</xmax>
+			<ymin>297</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymax>454</ymax>
+			<xmax>559</xmax>
+			<ymin>436</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymax>425</ymax>
+			<xmax>577</xmax>
+			<ymin>407</ymin>
+		</bndbox>
+	</object>
+</annotation>

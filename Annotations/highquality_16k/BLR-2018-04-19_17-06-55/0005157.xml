@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005157.jpg</filename>
+	<folder>BLR-2018-04-19_17-06-55_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymax>648</ymax>
+			<xmax>360</xmax>
+			<ymin>611</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>870</xmin>
+			<ymax>650</ymax>
+			<xmax>889</xmax>
+			<ymin>625</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>834</xmin>
+			<ymax>568</ymax>
+			<xmax>877</xmax>
+			<ymin>528</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>833</xmin>
+			<ymax>588</ymax>
+			<xmax>882</xmax>
+			<ymin>571</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1424</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>459</ymin>
+		</bndbox>
+	</object>
+</annotation>

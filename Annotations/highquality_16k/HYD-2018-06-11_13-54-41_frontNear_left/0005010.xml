@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005010.jpg</filename>
+	<folder>HYD-2018-06-11_13-54-41_frontNear_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1079</xmin>
+			<ymax>929</ymax>
+			<xmax>1179</xmax>
+			<ymin>822</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1499</xmin>
+			<ymax>906</ymax>
+			<xmax>1577</xmax>
+			<ymin>664</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1567</xmin>
+			<ymax>910</ymax>
+			<xmax>1644</xmax>
+			<ymin>608</ymin>
+		</bndbox>
+	</object>
+</annotation>

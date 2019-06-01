@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004680.jpg</filename>
+	<folder>BLR-2018-04-19_18-06-55_frontFar_right_14</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymax>440</ymax>
+			<xmax>420</xmax>
+			<ymin>403</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0011940.jpg</filename>
+	<folder>BLR-2018-05-31_13-01-28_frontNear_right_14</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1039</xmin>
+			<ymax>638</ymax>
+			<xmax>1080</xmax>
+			<ymin>599</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymax>641</ymax>
+			<xmax>1117</xmax>
+			<ymin>615</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1112</xmin>
+			<ymax>652</ymax>
+			<xmax>1157</xmax>
+			<ymin>602</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymax>645</ymax>
+			<xmax>1179</xmax>
+			<ymin>613</ymin>
+		</bndbox>
+	</object>
+</annotation>

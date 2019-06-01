@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000825.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_42_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1640</xmin>
+			<ymax>741</ymax>
+			<xmax>1781</xmax>
+			<ymin>639</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1789</xmin>
+			<ymax>832</ymax>
+			<xmax>1889</xmax>
+			<ymin>681</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1788</xmin>
+			<ymax>790</ymax>
+			<xmax>1879</xmax>
+			<ymin>638</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1786</xmin>
+			<ymax>804</ymax>
+			<xmax>1890</xmax>
+			<ymin>645</ymin>
+		</bndbox>
+	</object>
+</annotation>

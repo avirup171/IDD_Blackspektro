@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000285.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_55_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymax>793</ymax>
+			<xmax>81</xmax>
+			<ymin>580</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1836</xmin>
+			<ymax>799</ymax>
+			<xmax>1887</xmax>
+			<ymin>634</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1037</xmin>
+			<ymax>1063</ymax>
+			<xmax>1764</xmax>
+			<ymin>673</ymin>
+		</bndbox>
+	</object>
+</annotation>

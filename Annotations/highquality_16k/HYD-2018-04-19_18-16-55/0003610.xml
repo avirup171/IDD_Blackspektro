@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003610.jpg</filename>
+	<folder>HYD-2018-04-19_18-16-55_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>977</xmin>
+			<ymax>597</ymax>
+			<xmax>1002</xmax>
+			<ymin>566</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymax>604</ymax>
+			<xmax>992</xmax>
+			<ymin>591</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymax>608</ymax>
+			<xmax>1008</xmax>
+			<ymin>594</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>987</xmin>
+			<ymax>600</ymax>
+			<xmax>993</xmax>
+			<ymin>581</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymax>606</ymax>
+			<xmax>1006</xmax>
+			<ymin>581</ymin>
+		</bndbox>
+	</object>
+</annotation>

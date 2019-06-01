@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000465.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_3_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymax>788</ymax>
+			<xmax>737</xmax>
+			<ymin>581</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>871</xmin>
+			<ymax>774</ymax>
+			<xmax>1129</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+</annotation>

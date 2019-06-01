@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001500.jpg</filename>
+	<folder>BLR-2018-05-23_15-11-13_frontNear_right_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymax>559</ymax>
+			<xmax>1059</xmax>
+			<ymin>445</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymax>748</ymax>
+			<xmax>1821</xmax>
+			<ymin>244</ymin>
+		</bndbox>
+	</object>
+</annotation>

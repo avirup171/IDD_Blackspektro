@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0008235.jpg</filename>
+	<folder>HYD-2018-06-15_12-35-11_frontNear_left_6</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>960</xmin>
+			<ymax>778</ymax>
+			<xmax>1014</xmax>
+			<ymin>641</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymax>1033</ymax>
+			<xmax>797</xmax>
+			<ymin>734</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymax>953</ymax>
+			<xmax>479</xmax>
+			<ymin>638</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymax>1002</ymax>
+			<xmax>642</xmax>
+			<ymin>629</ymin>
+		</bndbox>
+	</object>
+</annotation>

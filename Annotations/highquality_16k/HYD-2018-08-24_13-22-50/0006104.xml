@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006104.jpg</filename>
+	<folder>HYD-2018-08-24_13-22-50_9</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>1017</ymax>
+			<xmax>83</xmax>
+			<ymin>719</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>891</xmin>
+			<ymax>587</ymax>
+			<xmax>921</xmax>
+			<ymin>569</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymax>612</ymax>
+			<xmax>866</xmax>
+			<ymin>588</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymax>606</ymax>
+			<xmax>866</xmax>
+			<ymin>579</ymin>
+		</bndbox>
+	</object>
+</annotation>

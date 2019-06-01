@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003854.jpg</filename>
+	<folder>BLR-2018-04-02_16-37-59_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymax>607</ymax>
+			<xmax>875</xmax>
+			<ymin>569</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymax>554</ymax>
+			<xmax>836</xmax>
+			<ymin>541</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1744</xmin>
+			<ymax>900</ymax>
+			<xmax>1801</xmax>
+			<ymin>822</ymin>
+		</bndbox>
+	</object>
+</annotation>

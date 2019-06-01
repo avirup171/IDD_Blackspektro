@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001760.jpg</filename>
+	<folder>BLR-2018-04-16_15-34-27_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>825</xmin>
+			<ymax>571</ymax>
+			<xmax>850</xmax>
+			<ymin>550</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymax>598</ymax>
+			<xmax>926</xmax>
+			<ymin>575</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>957</xmin>
+			<ymax>603</ymax>
+			<xmax>969</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1096</xmin>
+			<ymax>597</ymax>
+			<xmax>1120</xmax>
+			<ymin>584</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymax>613</ymax>
+			<xmax>1102</xmax>
+			<ymin>594</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1088</xmin>
+			<ymax>606</ymax>
+			<xmax>1103</xmax>
+			<ymin>581</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymax>607</ymax>
+			<xmax>851</xmax>
+			<ymin>566</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymax>667</ymax>
+			<xmax>1053</xmax>
+			<ymin>564</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>842</xmin>
+			<ymax>598</ymax>
+			<xmax>864</xmax>
+			<ymin>562</ymin>
+		</bndbox>
+	</object>
+</annotation>

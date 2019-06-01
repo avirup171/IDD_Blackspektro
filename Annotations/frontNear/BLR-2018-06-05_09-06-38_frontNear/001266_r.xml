@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0012660.jpg</filename>
+	<folder>BLR-2018-06-05_09-06-38_frontNear_right_15</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1032</xmin>
+			<ymax>636</ymax>
+			<xmax>1151</xmax>
+			<ymin>535</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymax>684</ymax>
+			<xmax>602</xmax>
+			<ymin>577</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymax>653</ymax>
+			<xmax>782</xmax>
+			<ymin>586</ymin>
+		</bndbox>
+	</object>
+</annotation>

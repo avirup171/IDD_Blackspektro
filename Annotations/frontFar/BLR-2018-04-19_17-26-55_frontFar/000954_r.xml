@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0009540.jpg</filename>
+	<folder>BLR-2018-04-19_17-26-55_frontFar_right_6</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>701</xmin>
+			<ymax>509</ymax>
+			<xmax>741</xmax>
+			<ymin>442</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymax>450</ymax>
+			<xmax>742</xmax>
+			<ymin>420</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymax>408</ymax>
+			<xmax>504</xmax>
+			<ymin>394</ymin>
+		</bndbox>
+	</object>
+</annotation>

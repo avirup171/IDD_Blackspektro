@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001230.jpg</filename>
+	<folder>BLR-2018-06-29-10-07-38_part_13_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymax>683</ymax>
+			<xmax>1219</xmax>
+			<ymin>526</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymax>669</ymax>
+			<xmax>1279</xmax>
+			<ymin>580</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1601</xmin>
+			<ymax>518</ymax>
+			<xmax>1635</xmax>
+			<ymin>480</ymin>
+		</bndbox>
+	</object>
+</annotation>

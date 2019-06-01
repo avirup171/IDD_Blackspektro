@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000299.jpg</filename>
+	<folder>BLR-2018-04-02_16-47-59_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1865</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>751</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>878</xmin>
+			<ymax>560</ymax>
+			<xmax>883</xmax>
+			<ymin>547</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymax>557</ymax>
+			<xmax>882</xmax>
+			<ymin>543</ymin>
+		</bndbox>
+	</object>
+</annotation>

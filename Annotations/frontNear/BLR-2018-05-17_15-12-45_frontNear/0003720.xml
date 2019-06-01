@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003720.jpg</filename>
+	<folder>BLR-2018-05-17_15-12-45_frontNear_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1836</xmin>
+			<ymax>491</ymax>
+			<xmax>1917</xmax>
+			<ymin>380</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1367</xmin>
+			<ymax>801</ymax>
+			<xmax>1524</xmax>
+			<ymin>479</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1483</xmin>
+			<ymax>833</ymax>
+			<xmax>1615</xmax>
+			<ymin>455</ymin>
+		</bndbox>
+	</object>
+</annotation>

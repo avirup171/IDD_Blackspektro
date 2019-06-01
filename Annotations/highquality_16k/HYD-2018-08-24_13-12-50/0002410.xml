@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002410.jpg</filename>
+	<folder>HYD-2018-08-24_13-12-50_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymax>598</ymax>
+			<xmax>1229</xmax>
+			<ymin>566</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1161</xmin>
+			<ymax>608</ymax>
+			<xmax>1220</xmax>
+			<ymin>546</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1245</xmin>
+			<ymax>593</ymax>
+			<xmax>1254</xmax>
+			<ymin>575</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1243</xmin>
+			<ymax>596</ymax>
+			<xmax>1253</xmax>
+			<ymin>583</ymin>
+		</bndbox>
+	</object>
+</annotation>

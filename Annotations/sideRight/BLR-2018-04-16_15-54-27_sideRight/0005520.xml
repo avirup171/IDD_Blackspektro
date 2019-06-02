@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005520.jpg</filename>
+	<folder>BLR-2018-04-16_15-54-27_sideRight_left_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>938</xmin>
+			<ymax>365</ymax>
+			<xmax>983</xmax>
+			<ymin>330</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymax>366</ymax>
+			<xmax>1022</xmax>
+			<ymin>330</ymin>
+		</bndbox>
+	</object>
+</annotation>

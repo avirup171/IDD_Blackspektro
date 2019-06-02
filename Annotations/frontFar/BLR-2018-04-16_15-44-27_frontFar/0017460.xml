@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0017460.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontFar_left_4</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymax>482</ymax>
+			<xmax>305</xmax>
+			<ymin>468</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymax>488</ymax>
+			<xmax>361</xmax>
+			<ymin>468</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymax>497</ymax>
+			<xmax>357</xmax>
+			<ymin>442</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymax>576</ymax>
+			<xmax>569</xmax>
+			<ymin>411</ymin>
+		</bndbox>
+	</object>
+</annotation>

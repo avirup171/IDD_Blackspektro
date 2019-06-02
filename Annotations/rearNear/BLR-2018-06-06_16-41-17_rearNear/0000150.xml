@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000150.jpg</filename>
+	<folder>BLR-2018-06-06_16-41-17_rearNear_left_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymax>1055</ymax>
+			<xmax>1432</xmax>
+			<ymin>94</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymax>1079</ymax>
+			<xmax>394</xmax>
+			<ymin>394</ymin>
+		</bndbox>
+	</object>
+</annotation>

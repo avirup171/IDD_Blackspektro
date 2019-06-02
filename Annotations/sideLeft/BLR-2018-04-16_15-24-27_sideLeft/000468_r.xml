@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004680.jpg</filename>
+	<folder>BLR-2018-04-16_15-24-27_sideLeft_right_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymax>600</ymax>
+			<xmax>590</xmax>
+			<ymin>339</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>1560</xmin>
+			<ymax>456</ymax>
+			<xmax>1699</xmax>
+			<ymin>344</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1694</xmin>
+			<ymax>543</ymax>
+			<xmax>1867</xmax>
+			<ymin>309</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1593</xmin>
+			<ymax>528</ymax>
+			<xmax>1710</xmax>
+			<ymin>372</ymin>
+		</bndbox>
+	</object>
+</annotation>

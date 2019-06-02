@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004020.jpg</filename>
+	<folder>BLR-2018-05-14_13-59-12_sideRight_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymax>441</ymax>
+			<xmax>261</xmax>
+			<ymin>403</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymax>345</ymax>
+			<xmax>132</xmax>
+			<ymin>332</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymax>440</ymax>
+			<xmax>125</xmax>
+			<ymin>365</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymax>418</ymax>
+			<xmax>15</xmax>
+			<ymin>326</ymin>
+		</bndbox>
+	</object>
+</annotation>

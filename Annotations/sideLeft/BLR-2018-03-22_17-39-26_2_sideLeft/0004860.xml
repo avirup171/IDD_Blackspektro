@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004860.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_2_sideLeft_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1715</xmin>
+			<ymax>512</ymax>
+			<xmax>1920</xmax>
+			<ymin>356</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymax>459</ymax>
+			<xmax>1476</xmax>
+			<ymin>415</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1437</xmin>
+			<ymax>461</ymax>
+			<xmax>1458</xmax>
+			<ymin>421</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1841</xmin>
+			<ymax>1061</ymax>
+			<xmax>1920</xmax>
+			<ymin>734</ymin>
+		</bndbox>
+	</object>
+</annotation>

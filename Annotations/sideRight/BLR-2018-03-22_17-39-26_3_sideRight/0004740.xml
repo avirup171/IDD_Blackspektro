@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004740.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_3_sideRight_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymax>246</ymax>
+			<xmax>216</xmax>
+			<ymin>220</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymax>251</ymax>
+			<xmax>176</xmax>
+			<ymin>235</ymin>
+		</bndbox>
+	</object>
+</annotation>

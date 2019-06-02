@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002580.jpg</filename>
+	<folder>BLR-2018-06-06_16-30-25_rearNear_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymax>490</ymax>
+			<xmax>970</xmax>
+			<ymin>435</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>931</xmin>
+			<ymax>528</ymax>
+			<xmax>957</xmax>
+			<ymin>489</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymax>505</ymax>
+			<xmax>963</xmax>
+			<ymin>435</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymax>846</ymax>
+			<xmax>1005</xmax>
+			<ymin>410</ymin>
+		</bndbox>
+	</object>
+</annotation>

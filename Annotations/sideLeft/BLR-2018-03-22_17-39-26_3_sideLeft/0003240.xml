@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003240.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_3_sideLeft_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymax>393</ymax>
+			<xmax>688</xmax>
+			<ymin>368</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymax>388</ymax>
+			<xmax>734</xmax>
+			<ymin>369</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymax>428</ymax>
+			<xmax>786</xmax>
+			<ymin>366</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymax>387</ymax>
+			<xmax>761</xmax>
+			<ymin>377</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymax>385</ymax>
+			<xmax>779</xmax>
+			<ymin>371</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1122</xmin>
+			<ymax>373</ymax>
+			<xmax>1155</xmax>
+			<ymin>357</ymin>
+		</bndbox>
+	</object>
+</annotation>

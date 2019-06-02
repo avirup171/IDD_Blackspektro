@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001920.jpg</filename>
+	<folder>BLR-2018-05-23_12-56-25_sideRight_right_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymax>495</ymax>
+			<xmax>147</xmax>
+			<ymin>336</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymax>644</ymax>
+			<xmax>887</xmax>
+			<ymin>393</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymax>910</ymax>
+			<xmax>691</xmax>
+			<ymin>387</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1324</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>470</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000660.jpg</filename>
+	<folder>BLR-2018-05-08_10-22-55_rearNear_left_6</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymax>1078</ymax>
+			<xmax>1921</xmax>
+			<ymin>4</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymax>495</ymax>
+			<xmax>612</xmax>
+			<ymin>436</ymin>
+		</bndbox>
+	</object>
+</annotation>

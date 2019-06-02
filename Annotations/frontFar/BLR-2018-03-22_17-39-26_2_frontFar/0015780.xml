@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0015780.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_2_frontFar_left_2</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymax>529</ymax>
+			<xmax>651</xmax>
+			<ymin>459</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1029</xmin>
+			<ymax>795</ymax>
+			<xmax>1279</xmax>
+			<ymin>502</ymin>
+		</bndbox>
+	</object>
+</annotation>

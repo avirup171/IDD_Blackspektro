@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002985.jpg</filename>
+	<folder>BLR-2018-05-29_11-55-34_sideRight_right_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymax>646</ymax>
+			<xmax>102</xmax>
+			<ymin>587</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymax>642</ymax>
+			<xmax>347</xmax>
+			<ymin>575</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymax>584</ymax>
+			<xmax>311</xmax>
+			<ymin>544</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymax>626</ymax>
+			<xmax>495</xmax>
+			<ymin>572</ymin>
+		</bndbox>
+	</object>
+</annotation>

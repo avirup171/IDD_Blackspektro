@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005520.jpg</filename>
+	<folder>BLR-2018-05-07_12-01-06_sideLeft_right_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymax>276</ymax>
+			<xmax>308</xmax>
+			<ymin>195</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1888</xmin>
+			<ymax>389</ymax>
+			<xmax>1909</xmax>
+			<ymin>361</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1881</xmin>
+			<ymax>471</ymax>
+			<xmax>1918</xmax>
+			<ymin>421</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1692</xmin>
+			<ymax>556</ymax>
+			<xmax>1868</xmax>
+			<ymin>350</ymin>
+		</bndbox>
+	</object>
+</annotation>

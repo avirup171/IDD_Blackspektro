@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001275.jpg</filename>
+	<folder>BLR-2018-05-29_10-59-01_sideLeft_right_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymax>455</ymax>
+			<xmax>139</xmax>
+			<ymin>429</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>510</ymax>
+			<xmax>33</xmax>
+			<ymin>421</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymax>447</ymax>
+			<xmax>833</xmax>
+			<ymin>348</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0009300.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontFar_left_10</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymax>606</ymax>
+			<xmax>682</xmax>
+			<ymin>503</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>768</xmin>
+			<ymax>630</ymax>
+			<xmax>922</xmax>
+			<ymin>499</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymax>637</ymax>
+			<xmax>837</xmax>
+			<ymin>506</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymax>762</ymax>
+			<xmax>418</xmax>
+			<ymin>518</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymax>753</ymax>
+			<xmax>130</xmax>
+			<ymin>528</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>779</ymax>
+			<xmax>63</xmax>
+			<ymin>524</ymin>
+		</bndbox>
+	</object>
+</annotation>

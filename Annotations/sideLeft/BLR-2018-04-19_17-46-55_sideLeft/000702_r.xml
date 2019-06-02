@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007020.jpg</filename>
+	<folder>BLR-2018-04-19_17-46-55_sideLeft_right_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1854</xmin>
+			<ymax>342</ymax>
+			<xmax>1874</xmax>
+			<ymin>314</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1719</xmin>
+			<ymax>341</ymax>
+			<xmax>1740</xmax>
+			<ymin>315</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1659</xmin>
+			<ymax>409</ymax>
+			<xmax>1689</xmax>
+			<ymin>357</ymin>
+		</bndbox>
+	</object>
+</annotation>

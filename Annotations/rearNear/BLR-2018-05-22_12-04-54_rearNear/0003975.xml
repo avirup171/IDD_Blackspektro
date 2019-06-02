@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003975.jpg</filename>
+	<folder>BLR-2018-05-22_12-04-54_rearNear_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymax>743</ymax>
+			<xmax>365</xmax>
+			<ymin>458</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymax>881</ymax>
+			<xmax>430</xmax>
+			<ymin>464</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>1079</ymax>
+			<xmax>273</xmax>
+			<ymin>668</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>1</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005940.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_sideRight_left_6</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymax>460</ymax>
+			<xmax>200</xmax>
+			<ymin>401</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1444</xmin>
+			<ymax>859</ymax>
+			<xmax>1910</xmax>
+			<ymin>415</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1004</xmin>
+			<ymax>1066</ymax>
+			<xmax>1405</xmax>
+			<ymin>542</ymin>
+		</bndbox>
+	</object>
+</annotation>

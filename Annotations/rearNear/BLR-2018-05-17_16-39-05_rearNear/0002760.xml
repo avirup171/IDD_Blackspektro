@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002760.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_rearNear_left_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymax>433</ymax>
+			<xmax>78</xmax>
+			<ymin>382</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymax>409</ymax>
+			<xmax>187</xmax>
+			<ymin>368</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymax>424</ymax>
+			<xmax>189</xmax>
+			<ymin>376</ymin>
+		</bndbox>
+	</object>
+</annotation>

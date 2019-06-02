@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007680.jpg</filename>
+	<folder>BLR-2018-05-17_15-45-06_sideRight_right_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymax>593</ymax>
+			<xmax>592</xmax>
+			<ymin>172</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymax>785</ymax>
+			<xmax>1424</xmax>
+			<ymin>88</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1753</xmin>
+			<ymax>860</ymax>
+			<xmax>1920</xmax>
+			<ymin>559</ymin>
+		</bndbox>
+	</object>
+</annotation>

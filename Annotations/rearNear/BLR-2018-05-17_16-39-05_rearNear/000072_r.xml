@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000720.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_rearNear_right_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymax>598</ymax>
+			<xmax>796</xmax>
+			<ymin>468</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1198</xmin>
+			<ymax>492</ymax>
+			<xmax>1212</xmax>
+			<ymin>457</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymax>531</ymax>
+			<xmax>1115</xmax>
+			<ymin>456</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymax>535</ymax>
+			<xmax>1137</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+</annotation>

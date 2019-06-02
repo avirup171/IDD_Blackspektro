@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0007620.jpg</filename>
+	<folder>BLR-2018-05-31_10-59-49_sideLeft_left_9</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1775</xmin>
+			<ymax>181</ymax>
+			<xmax>1840</xmax>
+			<ymin>18</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1796</xmin>
+			<ymax>244</ymax>
+			<xmax>1878</xmax>
+			<ymin>186</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymax>455</ymax>
+			<xmax>1919</xmax>
+			<ymin>210</ymin>
+		</bndbox>
+	</object>
+</annotation>

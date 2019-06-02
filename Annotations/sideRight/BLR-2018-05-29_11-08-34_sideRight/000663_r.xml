@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006630.jpg</filename>
+	<folder>BLR-2018-05-29_11-08-34_sideRight_right_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymax>1072</ymax>
+			<xmax>641</xmax>
+			<ymin>40</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymax>811</ymax>
+			<xmax>788</xmax>
+			<ymin>425</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymax>1072</ymax>
+			<xmax>1915</xmax>
+			<ymin>604</ymin>
+		</bndbox>
+	</object>
+</annotation>

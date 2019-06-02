@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005460.jpg</filename>
+	<folder>BLR-2018-05-07_12-01-06_sideLeft_right_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymax>265</ymax>
+			<xmax>332</xmax>
+			<ymin>195</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1895</xmin>
+			<ymax>386</ymax>
+			<xmax>1919</xmax>
+			<ymin>361</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1864</xmin>
+			<ymax>462</ymax>
+			<xmax>1880</xmax>
+			<ymin>420</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1711</xmin>
+			<ymax>557</ymax>
+			<xmax>1879</xmax>
+			<ymin>353</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1891</xmin>
+			<ymax>476</ymax>
+			<xmax>1920</xmax>
+			<ymin>425</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1876</xmin>
+			<ymax>465</ymax>
+			<xmax>1887</xmax>
+			<ymin>426</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0009180.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_3_frontFar_left_13</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymax>493</ymax>
+			<xmax>453</xmax>
+			<ymin>394</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymax>528</ymax>
+			<xmax>564</xmax>
+			<ymin>391</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymax>455</ymax>
+			<xmax>405</xmax>
+			<ymin>407</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymax>505</ymax>
+			<xmax>637</xmax>
+			<ymin>463</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymax>506</ymax>
+			<xmax>635</xmax>
+			<ymin>478</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1019</xmin>
+			<ymax>537</ymax>
+			<xmax>1053</xmax>
+			<ymin>506</ymin>
+		</bndbox>
+	</object>
+</annotation>

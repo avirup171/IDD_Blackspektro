@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002280.jpg</filename>
+	<folder>BLR-2018-04-26_13-00-01_sideRight_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>415</ymax>
+			<xmax>32</xmax>
+			<ymin>368</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymax>422</ymax>
+			<xmax>159</xmax>
+			<ymin>340</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymax>600</ymax>
+			<xmax>1404</xmax>
+			<ymin>228</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymax>529</ymax>
+			<xmax>1895</xmax>
+			<ymin>383</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1132</xmin>
+			<ymax>698</ymax>
+			<xmax>1920</xmax>
+			<ymin>425</ymin>
+		</bndbox>
+	</object>
+</annotation>

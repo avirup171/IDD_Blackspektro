@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004800.jpg</filename>
+	<folder>BLR-2018-05-14_13-29-20_sideLeft_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymax>530</ymax>
+			<xmax>146</xmax>
+			<ymin>373</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>770</ymax>
+			<xmax>130</xmax>
+			<ymin>335</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymax>638</ymax>
+			<xmax>446</xmax>
+			<ymin>347</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1245</xmin>
+			<ymax>578</ymax>
+			<xmax>1417</xmax>
+			<ymin>439</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1370</xmin>
+			<ymax>464</ymax>
+			<xmax>1427</xmax>
+			<ymin>401</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymax>927</ymax>
+			<xmax>1899</xmax>
+			<ymin>168</ymin>
+		</bndbox>
+	</object>
+</annotation>

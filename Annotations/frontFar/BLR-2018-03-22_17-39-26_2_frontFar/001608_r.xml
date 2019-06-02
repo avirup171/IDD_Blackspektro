@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0016080.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_2_frontFar_right_4</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymax>425</ymax>
+			<xmax>631</xmax>
+			<ymin>399</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymax>510</ymax>
+			<xmax>615</xmax>
+			<ymin>396</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymax>429</ymax>
+			<xmax>654</xmax>
+			<ymin>396</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymax>469</ymax>
+			<xmax>709</xmax>
+			<ymin>425</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymax>448</ymax>
+			<xmax>673</xmax>
+			<ymin>404</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymax>471</ymax>
+			<xmax>919</xmax>
+			<ymin>438</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0009000.jpg</filename>
+	<folder>BLR-2018-04-16_16-14-27_frontFar_right_8</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymax>420</ymax>
+			<xmax>506</xmax>
+			<ymin>383</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymax>491</ymax>
+			<xmax>758</xmax>
+			<ymin>418</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymax>548</ymax>
+			<xmax>533</xmax>
+			<ymin>461</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymax>529</ymax>
+			<xmax>536</xmax>
+			<ymin>426</ymin>
+		</bndbox>
+	</object>
+</annotation>

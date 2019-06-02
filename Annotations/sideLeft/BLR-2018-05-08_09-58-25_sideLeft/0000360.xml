@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000360.jpg</filename>
+	<folder>BLR-2018-05-08_09-58-25_sideLeft_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1490</xmin>
+			<ymax>519</ymax>
+			<xmax>1598</xmax>
+			<ymin>234</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1459</xmin>
+			<ymax>537</ymax>
+			<xmax>1494</xmax>
+			<ymin>361</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>1080</ymax>
+			<xmax>1494</xmax>
+			<ymin>4</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1573</xmin>
+			<ymax>795</ymax>
+			<xmax>1918</xmax>
+			<ymin>1</ymin>
+		</bndbox>
+	</object>
+</annotation>

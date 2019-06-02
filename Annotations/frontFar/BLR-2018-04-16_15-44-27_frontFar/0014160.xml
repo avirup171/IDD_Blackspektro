@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0014160.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontFar_left_4</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymax>503</ymax>
+			<xmax>600</xmax>
+			<ymin>473</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymax>504</ymax>
+			<xmax>608</xmax>
+			<ymin>473</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymax>511</ymax>
+			<xmax>589</xmax>
+			<ymin>465</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymax>568</ymax>
+			<xmax>405</xmax>
+			<ymin>473</ymin>
+		</bndbox>
+	</object>
+</annotation>

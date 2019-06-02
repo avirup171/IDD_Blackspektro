@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003210.jpg</filename>
+	<folder>BLR-2018-05-22_12-24-44_rearNear_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1373</xmin>
+			<ymax>1070</ymax>
+			<xmax>1921</xmax>
+			<ymin>401</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymax>955</ymax>
+			<xmax>1256</xmax>
+			<ymin>413</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymax>804</ymax>
+			<xmax>342</xmax>
+			<ymin>524</ymin>
+		</bndbox>
+	</object>
+</annotation>

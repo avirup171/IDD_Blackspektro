@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001440.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_2_frontFar_left_5</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymax>495</ymax>
+			<xmax>589</xmax>
+			<ymin>441</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymax>486</ymax>
+			<xmax>504</xmax>
+			<ymin>473</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymax>477</ymax>
+			<xmax>505</xmax>
+			<ymin>463</ymin>
+		</bndbox>
+	</object>
+</annotation>

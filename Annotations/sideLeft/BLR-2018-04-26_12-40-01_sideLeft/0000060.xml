@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000060.jpg</filename>
+	<folder>BLR-2018-04-26_12-40-01_sideLeft_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>916</xmin>
+			<ymax>620</ymax>
+			<xmax>1080</xmax>
+			<ymin>390</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymax>646</ymax>
+			<xmax>960</xmax>
+			<ymin>460</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1631</xmin>
+			<ymax>284</ymax>
+			<xmax>1734</xmax>
+			<ymin>168</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1567</xmin>
+			<ymax>458</ymax>
+			<xmax>1621</xmax>
+			<ymin>304</ymin>
+		</bndbox>
+	</object>
+</annotation>

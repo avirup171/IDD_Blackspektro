@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006660.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_1_sideLeft_right_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymax>315</ymax>
+			<xmax>804</xmax>
+			<ymin>270</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1511</xmin>
+			<ymax>404</ymax>
+			<xmax>1839</xmax>
+			<ymin>160</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1800</xmin>
+			<ymax>400</ymax>
+			<xmax>1919</xmax>
+			<ymin>180</ymin>
+		</bndbox>
+	</object>
+</annotation>

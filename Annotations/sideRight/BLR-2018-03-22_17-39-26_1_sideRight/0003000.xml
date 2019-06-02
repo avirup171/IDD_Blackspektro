@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003000.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_1_sideRight_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>456</ymax>
+			<xmax>183</xmax>
+			<ymin>207</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymax>435</ymax>
+			<xmax>352</xmax>
+			<ymin>337</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymax>435</ymax>
+			<xmax>378</xmax>
+			<ymin>332</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymax>438</ymax>
+			<xmax>413</xmax>
+			<ymin>330</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1680</xmin>
+			<ymax>553</ymax>
+			<xmax>1918</xmax>
+			<ymin>290</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymax>621</ymax>
+			<xmax>1076</xmax>
+			<ymin>448</ymin>
+		</bndbox>
+	</object>
+</annotation>

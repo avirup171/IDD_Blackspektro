@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006675.jpg</filename>
+	<folder>BLR-2018-05-22_13-01-18_sideRight_left_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymax>665</ymax>
+			<xmax>411</xmax>
+			<ymin>261</ymin>
+		</bndbox>
+	</object>
+</annotation>

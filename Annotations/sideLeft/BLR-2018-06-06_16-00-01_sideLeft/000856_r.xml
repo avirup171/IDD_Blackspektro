@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0008565.jpg</filename>
+	<folder>BLR-2018-06-06_16-00-01_sideLeft_right_10</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1653</xmin>
+			<ymax>203</ymax>
+			<xmax>1721</xmax>
+			<ymin>139</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1645</xmin>
+			<ymax>235</ymax>
+			<xmax>1711</xmax>
+			<ymin>198</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>640</xmin>
+			<ymax>418</ymax>
+			<xmax>865</xmax>
+			<ymin>351</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1872</xmin>
+			<ymax>427</ymax>
+			<xmax>1918</xmax>
+			<ymin>382</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1774</xmin>
+			<ymax>412</ymax>
+			<xmax>1804</xmax>
+			<ymin>338</ymin>
+		</bndbox>
+	</object>
+</annotation>

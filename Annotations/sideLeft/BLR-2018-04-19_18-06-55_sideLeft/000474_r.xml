@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004740.jpg</filename>
+	<folder>BLR-2018-04-19_18-06-55_sideLeft_right_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1407</xmin>
+			<ymax>1080</ymax>
+			<xmax>1626</xmax>
+			<ymin>373</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1104</xmin>
+			<ymax>1080</ymax>
+			<xmax>1391</xmax>
+			<ymin>381</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymax>1080</ymax>
+			<xmax>863</xmax>
+			<ymin>447</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymax>149</ymax>
+			<xmax>827</xmax>
+			<ymin>123</ymin>
+		</bndbox>
+	</object>
+</annotation>

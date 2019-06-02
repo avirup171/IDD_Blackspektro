@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0013920.jpg</filename>
+	<folder>BLR-2018-05-31_13-01-28_sideLeft_right_16</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1767</xmin>
+			<ymax>440</ymax>
+			<xmax>1815</xmax>
+			<ymin>387</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1813</xmin>
+			<ymax>460</ymax>
+			<xmax>1877</xmax>
+			<ymin>388</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1634</xmin>
+			<ymax>549</ymax>
+			<xmax>1705</xmax>
+			<ymin>378</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1873</xmin>
+			<ymax>439</ymax>
+			<xmax>1895</xmax>
+			<ymin>402</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymax>489</ymax>
+			<xmax>1867</xmax>
+			<ymin>409</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1815</xmin>
+			<ymax>467</ymax>
+			<xmax>1867</xmax>
+			<ymin>384</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1905</xmin>
+			<ymax>442</ymax>
+			<xmax>1919</xmax>
+			<ymin>408</ymin>
+		</bndbox>
+	</object>
+</annotation>

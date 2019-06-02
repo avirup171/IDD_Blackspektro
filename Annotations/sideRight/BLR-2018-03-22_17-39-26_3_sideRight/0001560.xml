@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001560.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_3_sideRight_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1139</xmin>
+			<ymax>780</ymax>
+			<xmax>1815</xmax>
+			<ymin>268</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymax>416</ymax>
+			<xmax>660</xmax>
+			<ymin>364</ymin>
+		</bndbox>
+	</object>
+</annotation>

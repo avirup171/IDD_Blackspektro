@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000780.jpg</filename>
+	<folder>BLR-2018-04-16_16-14-27_sideRight_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymax>408</ymax>
+			<xmax>325</xmax>
+			<ymin>367</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymax>360</ymax>
+			<xmax>1014</xmax>
+			<ymin>344</ymin>
+		</bndbox>
+	</object>
+</annotation>

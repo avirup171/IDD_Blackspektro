@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0015900.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontFar_right_15</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>521</ymax>
+			<xmax>236</xmax>
+			<ymin>317</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymax>455</ymax>
+			<xmax>388</xmax>
+			<ymin>358</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymax>459</ymax>
+			<xmax>487</xmax>
+			<ymin>358</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymax>453</ymax>
+			<xmax>557</xmax>
+			<ymin>403</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymax>478</ymax>
+			<xmax>656</xmax>
+			<ymin>358</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymax>478</ymax>
+			<xmax>869</xmax>
+			<ymin>357</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymax>444</ymax>
+			<xmax>546</xmax>
+			<ymin>417</ymin>
+		</bndbox>
+	</object>
+</annotation>

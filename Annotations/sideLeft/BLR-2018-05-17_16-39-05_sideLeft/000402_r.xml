@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004020.jpg</filename>
+	<folder>BLR-2018-05-17_16-39-05_sideLeft_right_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>899</xmin>
+			<ymax>229</ymax>
+			<xmax>910</xmax>
+			<ymin>207</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>892</xmin>
+			<ymax>232</ymax>
+			<xmax>903</xmax>
+			<ymin>206</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003660.jpg</filename>
+	<folder>BLR-2018-05-14_13-38-46_sideLeft_right_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1617</xmin>
+			<ymax>733</ymax>
+			<xmax>1912</xmax>
+			<ymin>141</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1689</xmin>
+			<ymax>1075</ymax>
+			<xmax>1919</xmax>
+			<ymin>301</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymax>1076</ymax>
+			<xmax>1179</xmax>
+			<ymin>621</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymax>1075</ymax>
+			<xmax>323</xmax>
+			<ymin>971</ymin>
+		</bndbox>
+	</object>
+</annotation>

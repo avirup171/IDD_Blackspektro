@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001020.jpg</filename>
+	<folder>BLR-2018-05-08_10-22-55_sideRight_left_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymax>305</ymax>
+			<xmax>30</xmax>
+			<ymin>250</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymax>322</ymax>
+			<xmax>86</xmax>
+			<ymin>302</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymax>497</ymax>
+			<xmax>193</xmax>
+			<ymin>400</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymax>511</ymax>
+			<xmax>251</xmax>
+			<ymin>412</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymax>524</ymax>
+			<xmax>263</xmax>
+			<ymin>449</ymin>
+		</bndbox>
+	</object>
+</annotation>

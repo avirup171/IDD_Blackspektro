@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005700.jpg</filename>
+	<folder>BLR-2018-05-17_15-56-30_sideLeft_left_1</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1810</xmin>
+			<ymax>456</ymax>
+			<xmax>1850</xmax>
+			<ymin>365</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1622</xmin>
+			<ymax>816</ymax>
+			<xmax>1803</xmax>
+			<ymin>541</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymax>722</ymax>
+			<xmax>1810</xmax>
+			<ymin>392</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1859</xmin>
+			<ymax>435</ymax>
+			<xmax>1886</xmax>
+			<ymin>373</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>1873</xmin>
+			<ymax>291</ymax>
+			<xmax>1893</xmax>
+			<ymin>260</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1904</xmin>
+			<ymax>484</ymax>
+			<xmax>1917</xmax>
+			<ymin>432</ymin>
+		</bndbox>
+	</object>
+</annotation>

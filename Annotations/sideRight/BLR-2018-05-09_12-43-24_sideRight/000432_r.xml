@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004320.jpg</filename>
+	<folder>BLR-2018-05-09_12-43-24_sideRight_right_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymax>710</ymax>
+			<xmax>558</xmax>
+			<ymin>341</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1569</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>337</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymax>478</ymax>
+			<xmax>60</xmax>
+			<ymin>327</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymax>514</ymax>
+			<xmax>27</xmax>
+			<ymin>368</ymin>
+		</bndbox>
+	</object>
+</annotation>

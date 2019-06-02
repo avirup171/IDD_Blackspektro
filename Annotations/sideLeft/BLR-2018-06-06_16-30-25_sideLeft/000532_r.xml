@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005325.jpg</filename>
+	<folder>BLR-2018-06-06_16-30-25_sideLeft_right_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymax>316</ymax>
+			<xmax>805</xmax>
+			<ymin>223</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymax>785</ymax>
+			<xmax>1740</xmax>
+			<ymin>362</ymin>
+		</bndbox>
+	</object>
+</annotation>

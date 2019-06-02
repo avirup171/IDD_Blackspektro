@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000780.jpg</filename>
+	<folder>BLR-2018-05-17_15-12-45_sideLeft_left_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1831</xmin>
+			<ymax>358</ymax>
+			<xmax>1887</xmax>
+			<ymin>326</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1903</xmin>
+			<ymax>378</ymax>
+			<xmax>1918</xmax>
+			<ymin>339</ymin>
+		</bndbox>
+	</object>
+</annotation>

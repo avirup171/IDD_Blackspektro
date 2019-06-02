@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0004785.jpg</filename>
+	<folder>BLR-2018-05-22_11-44-09_sideRight_left_6</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymax>447</ymax>
+			<xmax>62</xmax>
+			<ymin>404</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymax>418</ymax>
+			<xmax>544</xmax>
+			<ymin>344</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>758</ymax>
+			<xmax>336</xmax>
+			<ymin>445</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymax>1080</ymax>
+			<xmax>1920</xmax>
+			<ymin>373</ymin>
+		</bndbox>
+	</object>
+</annotation>

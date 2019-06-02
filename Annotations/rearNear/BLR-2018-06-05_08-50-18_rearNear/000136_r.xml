@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001365.jpg</filename>
+	<folder>BLR-2018-06-05_08-50-18_rearNear_right_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymax>1023</ymax>
+			<xmax>128</xmax>
+			<ymin>459</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymax>1077</ymax>
+			<xmax>1531</xmax>
+			<ymin>3</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1461</xmin>
+			<ymax>906</ymax>
+			<xmax>1682</xmax>
+			<ymin>362</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1668</xmin>
+			<ymax>1079</ymax>
+			<xmax>1917</xmax>
+			<ymin>419</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1286</xmin>
+			<ymax>436</ymax>
+			<xmax>1333</xmax>
+			<ymin>310</ymin>
+		</bndbox>
+	</object>
+</annotation>

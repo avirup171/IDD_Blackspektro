@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005640.jpg</filename>
+	<folder>BLR-2018-05-29_10-59-01_sideLeft_left_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>1818</xmin>
+			<ymax>482</ymax>
+			<xmax>1873</xmax>
+			<ymin>419</ymin>
+		</bndbox>
+	</object>
+</annotation>

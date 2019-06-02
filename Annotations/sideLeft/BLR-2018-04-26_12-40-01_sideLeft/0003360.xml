@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003360.jpg</filename>
+	<folder>BLR-2018-04-26_12-40-01_sideLeft_left_5</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymax>501</ymax>
+			<xmax>262</xmax>
+			<ymin>295</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1564</xmin>
+			<ymax>481</ymax>
+			<xmax>1679</xmax>
+			<ymin>355</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<bndbox>
+			<xmin>1690</xmin>
+			<ymax>295</ymax>
+			<xmax>1754</xmax>
+			<ymin>221</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymax>1080</ymax>
+			<xmax>1384</xmax>
+			<ymin>286</ymin>
+		</bndbox>
+	</object>
+</annotation>

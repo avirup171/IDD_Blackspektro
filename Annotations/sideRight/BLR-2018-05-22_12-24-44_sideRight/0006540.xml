@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0006540.jpg</filename>
+	<folder>BLR-2018-05-22_12-24-44_sideRight_left_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymax>982</ymax>
+			<xmax>1180</xmax>
+			<ymin>562</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymax>846</ymax>
+			<xmax>1055</xmax>
+			<ymin>434</ymin>
+		</bndbox>
+	</object>
+</annotation>

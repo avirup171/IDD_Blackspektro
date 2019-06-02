@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005580.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_1_sideRight_left_8</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymax>438</ymax>
+			<xmax>315</xmax>
+			<ymin>350</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymax>435</ymax>
+			<xmax>593</xmax>
+			<ymin>280</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymax>421</ymax>
+			<xmax>378</xmax>
+			<ymin>346</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymax>382</ymax>
+			<xmax>371</xmax>
+			<ymin>340</ymin>
+		</bndbox>
+	</object>
+</annotation>

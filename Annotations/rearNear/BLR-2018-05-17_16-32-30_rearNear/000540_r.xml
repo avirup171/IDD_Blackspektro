@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0005400.jpg</filename>
+	<folder>BLR-2018-05-17_16-32-30_rearNear_right_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1446</xmin>
+			<ymax>462</ymax>
+			<xmax>1478</xmax>
+			<ymin>433</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>1474</xmin>
+			<ymax>455</ymax>
+			<xmax>1491</xmax>
+			<ymin>435</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1495</xmin>
+			<ymax>459</ymax>
+			<xmax>1511</xmax>
+			<ymin>441</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymax>459</ymax>
+			<xmax>1532</xmax>
+			<ymin>436</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymax>498</ymax>
+			<xmax>809</xmax>
+			<ymin>439</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>735</xmin>
+			<ymax>486</ymax>
+			<xmax>750</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+</annotation>

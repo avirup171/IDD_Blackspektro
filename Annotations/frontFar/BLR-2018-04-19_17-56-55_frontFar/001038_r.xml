@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0010380.jpg</filename>
+	<folder>BLR-2018-04-19_17-56-55_frontFar_right_10</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymax>552</ymax>
+			<xmax>712</xmax>
+			<ymin>462</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymax>424</ymax>
+			<xmax>684</xmax>
+			<ymin>399</ymin>
+		</bndbox>
+	</object>
+</annotation>

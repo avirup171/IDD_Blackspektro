@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0014760.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_2_frontFar_right_12</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymax>432</ymax>
+			<xmax>628</xmax>
+			<ymin>419</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymax>437</ymax>
+			<xmax>576</xmax>
+			<ymin>427</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>rider</name>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymax>433</ymax>
+			<xmax>574</xmax>
+			<ymin>420</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<bndbox>
+			<xmin>522</xmin>
+			<ymax>455</ymax>
+			<xmax>562</xmax>
+			<ymin>405</ymin>
+		</bndbox>
+	</object>
+</annotation>

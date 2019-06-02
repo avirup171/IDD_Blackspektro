@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0008040.jpg</filename>
+	<folder>BLR-2018-04-19_17-56-55_frontFar_right_7</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymax>962</ymax>
+			<xmax>812</xmax>
+			<ymin>835</ymin>
+		</bndbox>
+	</object>
+</annotation>

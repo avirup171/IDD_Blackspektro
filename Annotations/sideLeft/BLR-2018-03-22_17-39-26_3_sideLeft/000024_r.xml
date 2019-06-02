@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0000240.jpg</filename>
+	<folder>BLR-2018-03-22_17-39-26_3_sideLeft_right_2</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>animal</name>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymax>518</ymax>
+			<xmax>260</xmax>
+			<ymin>454</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymax>427</ymax>
+			<xmax>286</xmax>
+			<ymin>328</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymax>395</ymax>
+			<xmax>327</xmax>
+			<ymin>352</ymin>
+		</bndbox>
+	</object>
+</annotation>

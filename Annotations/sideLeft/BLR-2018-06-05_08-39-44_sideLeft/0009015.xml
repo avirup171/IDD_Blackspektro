@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0009015.jpg</filename>
+	<folder>BLR-2018-06-05_08-39-44_sideLeft_left_10</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymax>1070</ymax>
+			<xmax>1708</xmax>
+			<ymin>4</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1647</xmin>
+			<ymax>528</ymax>
+			<xmax>1908</xmax>
+			<ymin>264</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1591</xmin>
+			<ymax>935</ymax>
+			<xmax>1917</xmax>
+			<ymin>423</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1906</xmin>
+			<ymax>442</ymax>
+			<xmax>1921</xmax>
+			<ymin>376</ymin>
+		</bndbox>
+	</object>
+</annotation>

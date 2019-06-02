@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0017880.jpg</filename>
+	<folder>BLR-2018-04-16_15-44-27_frontFar_right_14</folder>
+	<size>
+		<width>1280</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymax>462</ymax>
+			<xmax>624</xmax>
+			<ymin>410</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymax>462</ymax>
+			<xmax>676</xmax>
+			<ymin>411</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymax>451</ymax>
+			<xmax>570</xmax>
+			<ymin>422</ymin>
+		</bndbox>
+	</object>
+</annotation>

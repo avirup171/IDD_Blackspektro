@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0002310.jpg</filename>
+	<folder>BLR-2018-05-22_13-21-45_rearNear_left_3</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1327</xmin>
+			<ymax>557</ymax>
+			<xmax>1543</xmax>
+			<ymin>373</ymin>
+		</bndbox>
+	</object>
+</annotation>

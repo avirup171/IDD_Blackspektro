@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0001800.jpg</filename>
+	<folder>BLR-2018-05-17_15-12-45_sideLeft_left_7</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>vehicle fallback</name>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymax>243</ymax>
+			<xmax>760</xmax>
+			<ymin>224</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<filename>0003165.jpg</filename>
+	<folder>BLR-2018-06-05_08-39-44_sideLeft_left_4</folder>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1675</xmin>
+			<ymax>477</ymax>
+			<xmax>1706</xmax>
+			<ymin>389</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1704</xmin>
+			<ymax>503</ymax>
+			<xmax>1740</xmax>
+			<ymin>394</ymin>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1745</xmin>
+			<ymax>931</ymax>
+			<xmax>1917</xmax>
+			<ymin>2</ymin>
+		</bndbox>
+	</object>
+</annotation>

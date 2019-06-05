@@ -32,14 +32,10 @@ def class_text_to_int(row_label):
     
     if row_label == 'parking':
         return 1
-    if row_label == 'drivable fallback':
-        return 2
     if row_label == 'sidewalk':
         return 3
     if row_label == 'rail track':
         return 4
-    if row_label == 'non-drivable fallback':
-        return 5
     if row_label == 'person':
         return 6
     if row_label == 'animal':
@@ -48,7 +44,7 @@ def class_text_to_int(row_label):
         return 8
     if row_label == 'motorcycle':
         return 9
-    if row_label == 'bivyvle':
+    if row_label == 'bicycle':
         return 10
     if row_label == 'autorickshaw':
         return 11
@@ -64,8 +60,6 @@ def class_text_to_int(row_label):
         return 16
     if row_label == 'train':
         return 17
-    if row_label == 'vehicle fallback':
-        return 18
     if row_label == 'curb':
         return 19
     if row_label == 'wall':
@@ -84,8 +78,6 @@ def class_text_to_int(row_label):
         return 26
     if row_label == 'polegroup':
         return 27
-    if row_label == 'obs-str-bar-fallback':
-        return 28
     if row_label == 'building':
         return 29
     if row_label == 'bridge':
@@ -107,9 +99,8 @@ def split(df, group):
 
 
 def create_tf_example(group, path):
-    print(group)
+    print(group.object.filename)
     with tf.gfile.GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
-        print(group.filename)
         encoded_jpg = fid.read()
     encoded_jpg_io = io.BytesIO(encoded_jpg)
     image = Image.open(encoded_jpg_io)
@@ -123,7 +114,6 @@ def create_tf_example(group, path):
     ymaxs = []
     classes_text = []
     classes = []
-
     for index, row in group.object.iterrows():
         xmins.append(row['xmin'] / width)
         xmaxs.append(row['xmax'] / width)
@@ -148,12 +138,11 @@ def create_tf_example(group, path):
     }))
     return tf_example
 
-
 def main(_):
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
-    path = os.path.join(os.getcwd(), FLAGS.image_dir)
+    path = os.getcwd()
     examples = pd.read_csv(FLAGS.csv_input)
-    grouped = split(examples, 'filepath')
+    grouped = split(examples, 'filename')
     for group in grouped:
         tf_example = create_tf_example(group, path)
         writer.write(tf_example.SerializeToString())
